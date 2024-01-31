@@ -7,30 +7,30 @@
 using namespace std;
 
 int main ()  {
-    cout << " part 1 - area of a rectangle" << endl;
+    cout << " part 1 - volume of a rectangle" << endl;
     // declare variables
     double length;
     double width;
-    //double height; // for later
-    double area;
+    double height; // for later
+    double volume;
 
     // get input
     cout << "What is the length of the rectangle? ";
-    cin >> length; 
+    cin >> volume; 
     cout << "What is the width of rectangle? ";
-    cin >> width;
+    cin >> volume;
 
     // do calculations
-    area = length * width;
+    volume = length * width;
     // print output
-    cout << "The area of he rectangle is: " << area << endl;
+    cout << "The volume of the rectangle is: " << volume << endl;
 }
-
-
-
-
-
-
+ 
+    // prompt the user for the create's leneght width, nd height
+    cout << "Enter the dimensions of the create (in feet):\";
+    cout <<, "Length: ";
+    cin >> Lngth; 
+    cout << "width: ";
 
 
 
