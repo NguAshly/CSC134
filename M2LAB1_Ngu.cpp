@@ -25,30 +25,3 @@ int main ()  {
     // print output
     cout << "The volume of the rectangle is: " << volume << endl;
 }
- 
-    // prompt the user for the create's leneght width, nd height
-    cout << "Enter the dimensions of the create (in feet):\";
-    cout <<, "Length: ";
-    cin >> Lngth; 
-    cout << "width: ";
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
